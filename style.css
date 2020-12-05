@@ -1,5 +1,5 @@
 .carousel-item {
-height: 600px;
+max-height: 600px;
 }
 
 .anchor-100 {
